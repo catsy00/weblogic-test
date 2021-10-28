@@ -1,3 +1,3 @@
-FROM openshift/weblogic:latest
+FROM weblogic:latest
 
 CMD ["/bin/sh","-c"]
