@@ -1,3 +1,3 @@
-FROM docker.io/catsy00/weblogic:latest
+FROM weblogic-test:latest
 
 CMD ["/bin/sh","-c"]
