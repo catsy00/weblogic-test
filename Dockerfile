@@ -1,3 +1,3 @@
-FROM tjkim-test2/weblogic-test:latest
+FROM openshift/weblogic-test:latest
 
 CMD ["/bin/sh","-c"]
