@@ -1,3 +1,3 @@
-FROM openshift/ruby-20-centos7:2.0
+FROM openshift/ruby:2.6-ubi8
 
 CMD ["/bin/sh","-c","while true; do date; done"]
